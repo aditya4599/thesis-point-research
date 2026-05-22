@@ -68,7 +68,7 @@ export function ArticleRenderer({
                 className="border-l-4 border-amber-500 pl-6 py-4"
               >
                 <p className="font-serif text-3xl italic leading-relaxed text-slate-800">
-                  "{block.data.quote}"
+                  &quot;{block.data.quote}&quot;
                 </p>
 
                 {block.data.author && (
@@ -108,6 +108,7 @@ export function ArticleRenderer({
               <div key={index}>
                 <img
                   src={block.data.url}
+                  alt={block.data.caption || "Article image"}
                   className="w-full rounded-2xl"
                 />
 
