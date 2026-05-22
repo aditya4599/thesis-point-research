@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "slug": "indian-banks-credit-cycle",
+    "title": "Indian Banks: Credit Cycle Positioning",
+    "sector": "Financials",
+    "analyst": "Arjun Mehta",
+    "date": "2025-05-05",
+    "preview": "Asset quality trends remain benign while loan growth re-accelerates in retail and SME segments."
+  },
+  {
+    "id": "2",
+    "slug": "semiconductor-supply-chain",
+    "title": "Semiconductor Supply Chain: Lead Times and Pricing",
+    "sector": "Technology",
+    "analyst": "Priya Sharma",
+    "date": "2025-04-20",
+    "preview": "Advanced packaging capacity remains tight. We track foundry utilization and equipment order books."
+  },
+  {
+    "id": "3",
+    "slug": "us-hospital-operators",
+    "title": "US Hospital Operators: Labor and Volume Trends",
+    "sector": "Healthcare",
+    "analyst": "James Chen",
+    "date": "2025-04-12",
+    "preview": "Nurse wage inflation is moderating. Volume recovery varies by geography and payer mix."
+  },
+  {
+    "id": "4",
+    "slug": "lng-trade-flows",
+    "title": "Global LNG: Trade Flows and Margin Outlook",
+    "sector": "Energy",
+    "analyst": "Arjun Mehta",
+    "date": "2025-03-30",
+    "preview": "European demand stabilizes while Asia remains the marginal buyer. We map spot vs. contract spreads."
+  },
+  {
+    "id": "5",
+    "slug": "india-consumer-premium",
+    "title": "India Consumer: Premiumization Scorecard",
+    "sector": "Consumer",
+    "analyst": "Priya Sharma",
+    "date": "2025-03-18",
+    "preview": "Urban discretionary spend is outpacing rural. We rank categories by pricing power and penetration."
+  },
+  {
+    "id": "6",
+    "slug": "global-industrials-capex",
+    "title": "Global Industrials: Capex Cycle Monitor",
+    "sector": "Industrials",
+    "analyst": "James Chen",
+    "date": "2025-03-05",
+    "preview": "Order books are elongating in construction equipment while aerospace aftermarket remains strong."
+  },
+  {
+    "id": "7",
+    "slug": "central-bank-divergence",
+    "title": "Central Bank Divergence: Portfolio Implications",
+    "sector": "Macro",
+    "analyst": "James Chen",
+    "date": "2025-02-25",
+    "preview": "Fed patience vs. ECB easing creates cross-currency opportunities. We outline rate-sensitive positioning."
+  }
+]

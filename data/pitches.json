@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "slug": "zomato-bull-case-pitch",
+    "company": "Zomato",
+    "ticker": "ZOMATO",
+    "sector": "Consumer",
+    "thesis": "Zomato's quick commerce flywheel creates a winner-take-most dynamic in urban India with improving unit economics.",
+    "analyst": "Priya Sharma",
+    "date": "2025-03-15",
+    "pdfUrl": "/pdfs/zomato-pitch.pdf",
+    "coverImage": "/images/pitch-zomato.svg",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "adani-green-energy-pitch",
+    "company": "Adani Green Energy",
+    "ticker": "ADANIGREEN",
+    "sector": "Energy",
+    "thesis": "India's renewable build-out accelerates. We model capacity additions and contracted offtake visibility through 2030.",
+    "analyst": "Arjun Mehta",
+    "date": "2025-02-28",
+    "pdfUrl": "/pdfs/adani-green-pitch.pdf",
+    "coverImage": "/images/pitch-energy.svg",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "slug": "infosys-ai-services-pitch",
+    "company": "Infosys",
+    "ticker": "INFY",
+    "sector": "Technology",
+    "thesis": "Enterprise AI services spending is inflecting. Infosys is positioned to capture share with platform partnerships.",
+    "analyst": "Priya Sharma",
+    "date": "2025-02-10",
+    "pdfUrl": "/pdfs/infosys-pitch.pdf",
+    "coverImage": "/images/pitch-tech.svg",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "slug": "sun-pharma-us-generics-pitch",
+    "company": "Sun Pharmaceutical",
+    "ticker": "SUNPHARMA",
+    "sector": "Healthcare",
+    "thesis": "Specialty mix shift and US pipeline optionality support a re-rating case versus Indian pharma peers.",
+    "analyst": "James Chen",
+    "date": "2025-01-22",
+    "pdfUrl": "/pdfs/sun-pharma-pitch.pdf",
+    "coverImage": "/images/pitch-healthcare.svg",
+    "featured": false
+  }
+]

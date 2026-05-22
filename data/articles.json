@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "slug": "india-financials-outlook-2025",
+    "title": "India Financials: A Decade of Structural Tailwinds",
+    "excerpt": "We examine why Indian private sector banks remain a core long-term holding amid credit cycle normalization and digital adoption.",
+    "sector": "Financials",
+    "author": "Arjun Mehta",
+    "date": "2025-05-10",
+    "readTime": "8 min",
+    "tags": ["India", "Banking", "EM"],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "ai-infrastructure-spend-cycle",
+    "title": "The AI Infrastructure Spend Cycle: Who Captures the Margin?",
+    "excerpt": "Hyperscaler capex is accelerating, but the value chain winners may not be the obvious names. We map the stack from chips to power.",
+    "sector": "Technology",
+    "author": "Priya Sharma",
+    "date": "2025-05-02",
+    "readTime": "12 min",
+    "tags": ["AI", "Semiconductors", "Cloud"],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "slug": "healthcare-services-consolidation",
+    "title": "Healthcare Services: Consolidation Meets Pricing Power",
+    "excerpt": "Regional hospital operators are gaining scale. We analyze margin expansion potential and regulatory risk across key markets.",
+    "sector": "Healthcare",
+    "author": "James Chen",
+    "date": "2025-04-18",
+    "readTime": "10 min",
+    "tags": ["Healthcare", "Services"],
+    "featured": false
+  },
+  {
+    "id": "4",
+    "slug": "energy-transition-oil-gas",
+    "title": "Energy Transition vs. Oil & Gas Cash Returns",
+    "excerpt": "Investors are repricing energy equities. We compare shareholder yield profiles across majors and independents.",
+    "sector": "Energy",
+    "author": "Arjun Mehta",
+    "date": "2025-04-05",
+    "readTime": "9 min",
+    "tags": ["Energy", "ESG", "Commodities"],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "slug": "consumer-discretionary-india",
+    "title": "India Consumer Discretionary: Premiumization at Scale",
+    "excerpt": "Urban consumption trends favor organized retail and premium brands. We highlight category leaders with durable moats.",
+    "sector": "Consumer",
+    "author": "Priya Sharma",
+    "date": "2025-03-22",
+    "readTime": "7 min",
+    "tags": ["India", "Consumer"],
+    "featured": true
+  },
+  {
+    "id": "6",
+    "slug": "macro-rates-volatility-2025",
+    "title": "Macro Outlook: Rates, Volatility, and Cross-Asset Implications",
+    "excerpt": "Central bank divergence is widening. We outline portfolio positioning frameworks for a higher-volatility regime.",
+    "sector": "Macro",
+    "author": "James Chen",
+    "date": "2025-03-10",
+    "readTime": "11 min",
+    "tags": ["Macro", "Rates"],
+    "featured": false
+  }
+]

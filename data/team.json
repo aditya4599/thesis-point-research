@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Arjun Mehta",
+    "title": "Lead Analyst",
+    "designation": "CFA",
+    "sectorFocus": "Financials, Energy, Macro",
+    "bio": "Former sell-side analyst with 12 years covering emerging markets financials and commodities.",
+    "linkedin": "https://linkedin.com"
+  },
+  {
+    "name": "Priya Sharma",
+    "title": "Senior Analyst",
+    "designation": "CFA",
+    "sectorFocus": "Technology, Consumer",
+    "bio": "Specializes in TMT and Indian consumer equities with a focus on structural growth and unit economics.",
+    "linkedin": "https://linkedin.com"
+  },
+  {
+    "name": "James Chen",
+    "title": "Senior Analyst",
+    "sectorFocus": "Healthcare, Industrials, Macro",
+    "bio": "Covers US healthcare services and global industrials with deep expertise in cycle analysis.",
+    "linkedin": "https://linkedin.com"
+  },
+  {
+    "name": "Elena Vasquez",
+    "title": "Associate Analyst",
+    "sectorFocus": "Financials, Consumer",
+    "bio": "Supports coverage of banks and consumer discretionary with quantitative screening and model builds.",
+    "linkedin": "https://linkedin.com"
+  }
+]
